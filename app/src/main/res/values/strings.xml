@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Skin Checker</string>
+    <string name="title_dashboard">대시보드</string>
+    <string name="title_notifications">피부 측정</string>
+    <string name="title_cosmetic">피부 관리법</string>
+    <string name="title_product">맞춤형 화장품</string>
+
+    <string name="next">다음</string>
+    <string name="prev">이전</string>
+    <string name="finish">완료</string>
+
+    <string name="submit_confirm_message">Place the order with the deli? You will receive an email
+        confirmation.</string>
+    <string name="submit_confirm_button">Place order</string>
+
+    <string name="label_your_name">Name</string>
+    <string name="hint_your_name">e.g. Larry</string>
+    <string name="label_your_email">Email</string>
+    <string name="hint_your_email">Optional</string>
+</resources>

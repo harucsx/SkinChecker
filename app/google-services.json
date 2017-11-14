@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "852259512338",
+    "firebase_url": "https://skin-checker.firebaseio.com",
+    "project_id": "skin-checker",
+    "storage_bucket": "skin-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852259512338:android:3b828dc71a2085a2",
+        "android_client_info": {
+          "package_name": "me.devhi.skinchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852259512338-u07v37cmm3i08n074u91acqgk61qm5f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtd6D3O_dBFTY0ss25SxDwcSgQj1jnjhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
