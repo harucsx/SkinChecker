@@ -50,8 +50,10 @@ public class MainActivity extends AppCompatActivity {
                     startActivityForResult(runQna, REQUEST_RUN_QNA);
                     return true;
                 case R.id.navigation_cosmetic:
+                    Toast.makeText(getApplicationContext(), "준비중 입니다.", Toast.LENGTH_SHORT).show();
                     return true;
                 case R.id.navigation_product:
+                    Toast.makeText(getApplicationContext(), "준비중 입니다.", Toast.LENGTH_SHORT).show();
                     return true;
             }
             return false;
